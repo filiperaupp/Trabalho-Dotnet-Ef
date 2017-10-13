@@ -1,0 +1,29 @@
+@model IEnumerable<my_crud.Models.Dog>
+
+<a href="Dog/Create">Novo catchioro</a>
+<div class="container">
+    <table class="table">
+        <head>
+            <tr>
+                <td> Id </td>
+                <td> Nome </td>
+                <td> Raça </td>
+                <td> Tamanho </td>
+                <th> </th>
+                <th> </th>
+            </tr>   
+        </head>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id </td>
+                <td>@item.name </td>
+                <td>@item.race </td>
+                <td>@item.size </td>
+                <td><a class="btn btn-primary" href="Dog/Edit/@item.id">Editar</a> </td>
+                <td><a class="btn btn-danger" href="Dog/Delete/@item.id">Delete</a> </td>
+            </tr>
+        }
+    </table>
+</div>

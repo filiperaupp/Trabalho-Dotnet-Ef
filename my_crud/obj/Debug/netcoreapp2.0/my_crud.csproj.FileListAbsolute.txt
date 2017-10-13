@@ -1,0 +1,10 @@
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\bin\Debug\netcoreapp2.0\my_crud.deps.json
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\bin\Debug\netcoreapp2.0\my_crud.runtimeconfig.json
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\bin\Debug\netcoreapp2.0\my_crud.runtimeconfig.dev.json
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\bin\Debug\netcoreapp2.0\my_crud.dll
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\bin\Debug\netcoreapp2.0\my_crud.pdb
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\obj\Debug\netcoreapp2.0\my_crud.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\obj\Debug\netcoreapp2.0\my_crud.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\obj\Debug\netcoreapp2.0\my_crud.AssemblyInfo.cs
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\obj\Debug\netcoreapp2.0\my_crud.dll
+C:\Users\filip\Desktop\FaculdadeGit\my_crud\obj\Debug\netcoreapp2.0\my_crud.pdb
